@@ -1,0 +1,35 @@
+var suma = function(){
+    console.log("calculando")
+    var valorx = document.getElementById("valors1").value
+    var valory = document.getElementById("valors2").value
+    console.log(parseInt(valorx) + parseInt(valory))
+document.getElementById("resuls").innerHTML = (parseInt(valorx) + parseInt(valory))
+}
+
+
+var resta = function(){
+
+var valorx = document.getElementById("valorr1").value
+var valory = document.getElementById("valorr2").value
+
+document.getElementById("resulr").innerHTML = ((valorx) - (valory))
+
+}
+
+var multiplicacion = function(){
+var valorx = document.getElementById("valorm1").value
+var valory = document.getElementById("valorm2").value
+
+document.getElementById("resulm").innerHTML = ((valorx)*(valory))
+
+}
+
+var division =function(){
+
+var valorx = document.getElementById("valord1").value
+var valory = document.getElementById("valord2").value
+
+document.getElementById("resuld").innerHTML = ((valorx)/(valory))
+
+}
+

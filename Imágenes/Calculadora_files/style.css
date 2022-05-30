@@ -1,0 +1,91 @@
+
+
+
+#todo{
+    background-color: #3E6262;
+}
+
+
+#tit{
+    font-size: 100px;
+    position: fixed;
+    margin-left: 430px;
+    }
+
+
+#lascajas{
+    margin-top: 125px;
+}
+#SUMA{
+    font-size: 80px;
+    margin-left: 280px;
+    margin-top: 43px;
+}
+
+#cajasuma{
+    border-style: dotted;
+    border-width: 30px;
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 237PX;
+    height: 85PX;
+}
+
+#RESTA{
+    font-size: 80px;
+    margin-left: 800px;
+    margin-top: -287px;
+
+}
+
+#cajaresta{
+    border-style: dotted;
+    border-width: 30px;
+    margin-top: 50px;
+    margin-left: 776px;
+    width: 237PX;
+    height: 85PX;
+}
+
+#MULTIPLICACION{
+    font-size: 80px;
+    margin-top: 80px;
+    margin-left: 170px;
+}
+
+#cajamultiplicacion{
+    border-style: dotted;
+    border-width: 30px;
+    margin-top: 50px;
+    margin-left: 261px;
+    width: 237PX;
+    height: 85PX;
+}
+
+#DIVIDE{
+    font-size: 80px;
+    margin-top: -285px;
+    margin-left: 800px;
+}
+
+#cajadivision{
+    border-style: dotted;
+    border-width: 30px;
+    margin-top: 50px;
+    margin-left: 793px;
+    width: 237PX;
+    height: 85PX;
+}
+
+
+
+
+.resulto{
+      margin-top: 20px;
+border-style:solid;
+}
+
+.cajas{
+    width: 68px;
+margin-top: 10px;
+    }

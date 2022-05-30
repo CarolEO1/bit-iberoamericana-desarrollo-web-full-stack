@@ -1,0 +1,81 @@
+#todo{
+background-color: #344E4E;
+margin-top: 80px;
+font-size: 40px;
+}
+
+
+#tit{
+    position: fixed;
+    margin-left: 580px;
+    text-align: center;
+    letter-spacing: 5px;
+    border-color: black;
+    border-top: #253d3d;
+    padding: 12px;
+    width: 619px;
+    border-style:dotted;
+    border-width: 10px;
+}
+
+#tarjeta1{
+width: 500px;
+height: 300px;
+color:white;
+background-color: #435858;
+font-size: 30px;
+margin-top: 100px;
+margin-left: 650px;
+border-radius: 50px;
+}
+
+
+#tarjeta2{
+    background-image: url(Imágenes/b0c81961153a56eab83cf03d862345af.gif);
+    width: 500px;
+    height: 300px;
+    color:#2C3636;
+    background-color: #435858;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 650px;
+    border-radius: 50px;
+    
+
+}
+#instagram{
+    width: 67px;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+#instagram:hover{
+    width: 120px;
+}
+
+
+#twitter{
+    width: 76px;
+    
+    }
+    #twitter:hover{
+        width: 150px;
+    }
+
+#whats{
+    width: 76px;
+}
+
+   #whats:hover{
+       width: 120px;
+       
+   }
+
+#nombre{
+padding-top: 50px;
+margin-left: 130px ;
+opacity: 24%;}
+#desa{
+opacity: 24%;  
+margin-left: 95px;
+margin-top: 76px; 
+}
